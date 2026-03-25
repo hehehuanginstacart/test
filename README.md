@@ -1,2 +1,2 @@
 # test
-A repository to test GitHub features.
+A repository to test GitHub and Copilot features.
